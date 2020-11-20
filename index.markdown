@@ -33,6 +33,8 @@ The chart below was created in Python using plotly express for static hosting. T
 We can understand what a step is, but what about going up/down stairs and how does it compare to walking, jogging, running or biking? And what about move minutes and heart minutes?
 <div>{% include FamilyDistance.html %}</div>
 <br>
+Look closely at the Spring of 2020 when SF schools closed due to COVID, my kids stayed mostly inside the house but started to venture out more in the summer when mask wearing became more comfortable and familiar.
+<br>
 A simple Swift app scrapes the Healthit info and sends it (using amplify) to an AWS S3 bucket. If the Django site is provisioned on AWS, lambda functions will insert the data into an RDS MySql db; otherwise, I'll grab from the bucket, manage the db locally and create the plotly derived html files. In general, the iPhone monitoring is always on.
 <div>{% include FamilySteps.html %}</div>
 <br>
