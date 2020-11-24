@@ -13,7 +13,7 @@ layout: default
   display: flex;
 }
 
-/* Create three equal columns that sits next to each other */
+/* Create two equal columns that sits next to each other */
 .column_wvs {
   flex: 50%;
   padding: 5px;
@@ -44,11 +44,21 @@ My Swiss army knife, an android app "GetOut" that I've been slowly developing, w
 <div class="column_wvs"><img src="/assets/images/GetOut_Journal_rte1_300x617.png" alt="Journal route"></div>
 </div>
 
+<div class="row_wvs">
+<div class="column_wvs"><img src="/assets/images/GetOut_Journal_list1_FtFunston_300x617.png" alt="Journal list"></div>
+<div class="column_wvs"><img src="/assets/images/GetOut_Journal_rte_FtFunston_300x617.png" alt="Journal route"></div>
+</div>
+<br>
+The above journal routes "Delores Run" and "Ft Funston Dog Walk" are displayed below using Plotly express and Mapbox.
+<div>{% include route_mapbox_Delores.html %}</div>
+<br>
+One is able to zoom and display info pts along the journal entry route.
+<div>{% include route_mapbox_FtFunston.html %}</div>
+
 ---
 
 *to do list*
-* add resume
-* add footer
+
 * add ultimate team pages
   * 1977-1985 	Summit No Sweat
   * 1983-1985 	10 St Dealers
