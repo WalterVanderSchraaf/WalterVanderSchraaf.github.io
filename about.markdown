@@ -26,7 +26,7 @@ Languages:
 * Familiar with: PostgreSQL, MySQL, MongoDB
 * DevOps: Familiar with: AWS (EC2, IAM, ElasticBeanstalk, S3, RDS, Amplify, Boto3, Lambda)
 * Software: MS Office, MS Visio, Crystal Reports, Photoshop, Illustrator, WordPress
-* Version Control Systems: VSS, VS Team, Git
+* Version Control Systems: VSS, Sharepoint, Git
 * Platforms: Windows, Linux, Android, macOS
 
 ---
@@ -47,6 +47,7 @@ Languages:
  * QA
    * tested front end, backend, reports
    * authored test plans, functional specs, requirements
+   * developed “costing/forecasting” tools which automated and improved testing efficiency
  * Production Support
    * deployments to production
    * application monitoring and issue resolution
