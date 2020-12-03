@@ -19,15 +19,18 @@ I’ve been a tester, a manager and a developer.  I am effective because I under
 COMPUTER SKILLS
 
 Languages:
-* Proficient in: MS VB, VB.NET, C#, ANSI SQL, PL/SQL, VBA
-* Familiar with: Python, Flask, Django, Plotly Dash, Bootstrap, Java, JavaScript, React, Swift, REST, ETL, HTML, DOM, XML, JSON
+* Proficient in: VB.NET, C#, ANSI SQL, PL/SQL, VBA
+* Familiar with: Java/Android, Python, JavaScript, HTML, XML, CSS, Swift/iOS
+* Frameworks: Flask, Django, Plotly Dash, Bootstrap, REST
 * Learning: all things open-source
-* Databases: Oracle, MS SQL Server, SQLite, MS Access
-* Familiar with: PostgreSQL, MySQL, MongoDB
-* DevOps: Familiar with: AWS (EC2, IAM, ElasticBeanstalk, S3, RDS, Amplify, Boto3, Lambda)
-* Software: MS Office, MS Visio, Crystal Reports, Photoshop, Illustrator, WordPress
-* Version Control Systems: VSS, Sharepoint, Git
-* Platforms: Windows, Linux, Android, macOS
+
+Databases: Oracle, MS SQL Server, SQLite, MS Access
+* Familiar with: MySQL, PostgreSQL
+
+DevOps: Familiar with: AWS (EC2, IAM, ElasticBeanstalk, S3, RDS, Amplify, Boto3, Lambda)<br>
+Software: MS Office, MS Visio, Crystal Reports, Photoshop, Illustrator, WordPress<br>
+Version Control Systems: VSS, Sharepoint, Git<br>
+Platforms: Windows, Linux, Android, macOS
 
 ---
 
@@ -57,15 +60,17 @@ Languages:
  * Ran inspection imports and reconciliation
  * Tested code migration to allow DOE/SCA to take ownership of software system
    * VB6 to C# using NUnit testing
+   * Knowledge transfer documentation
 
-Technologies used: .NET framework [ASP, ADO], C#, VS VB, Oracle, ANSI SQL, PL SQL
+<p class="indentpar">Technologies used: .NET framework [ASP, ADO], C#, VB .NET, Oracle, ANSI SQL, PL SQL</p>
 <br>
 <h3 class="resumedetails"><span class="resumeleft"> Software Developer - R2K LLC</span>1997-2000</h3>
-<p class="indentpar">Developed software using proprietary Client API for document workflow and imaging for major class action suit involving Prudential Insurance. The Customer Complaint System was a 3-tier application created to process policy owner’s complaints. The CCS user interface was written in VB 6.0 with data stored in SQL Server 7.0. System was hosted with transaction management using IIS, ActiveX documents, and MTS Server. VB6, SQL Server, MTS, IIS, ASP</p>
+<p class="indentpar">Developed software using proprietary Client API for document workflow and imaging for major class action suit involving Prudential Insurance. The Customer Complaint System was a 3-tier application created to process policy owner’s complaints. The CCS user interface was written in VB 6.0 with data stored in SQL Server 7.0. System was hosted with transaction management using IIS, ActiveX documents, and MTS Server.</p>
+<p class="indentpar">Technologies used: VB6, SQL Server, MTS, IIS, ASP</p>
 
 <h3 class="resumedetails"><span class="resumeleft">QA Manager - Eastman Kodak Document Imaging Solutions</span>1995-1997</h3>
 
-* Managed QA team that tested proprietary Client API software. 
+* Managed QA team (~15 members) that tested proprietary Client API software. 
 
 <h3 class="resumedetails"><span class="resumeleft">QA Specialist - Sigma Imaging Systems</span>1993-1995</h3>
 
@@ -74,13 +79,12 @@ Technologies used: .NET framework [ASP, ADO], C#, VS VB, Oracle, ANSI SQL, PL SQ
 <br>
 # PROJECTS
 <br>
-<h3 class="resumedetails"><span class="resumeleft">Consultant - <a href="https://sparkceramicssf.com" target="_blank">Spark Ceramics SF</a></span>2016-present</h3>
+<h3 class="resumedetails">
+<span class="resumeleft">Consultant - <a href="https://sparkceramicssf.com" target="_blank">Spark Ceramics SF</a>, 
+<a href="https://DeborahGutof.com" target="_blank">Deborah Design</a>
+</span>2016-present</h3>
 
 * Studio manager, Web support, Workshop assistant
-
-<h3 class="resumedetails"><span class="resumeleft">Consultant - <a href="https://DeborahGutof.com" target="_blank">Deborah Design</a> </span>2016-present</h3>
-
-* Web support, Workshop assistant
 
 <h3 class="resumedetails"><span class="resumeleft">Construction project manager</span>2016-2019</h3>
 <p class="indentpar">Rebuilt house due to fires back in Jan 2016</p>

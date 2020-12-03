@@ -49,7 +49,7 @@ My Swiss army knife, an android app "GetOut" that I've been slowly developing, w
 <div class="column_wvs"><img src="/assets/images/GetOut_Journal_rte_FtFunston_300x617.png" alt="Journal route"></div>
 </div>
 <br>
-The above journal routes "Delores Run" and "Ft Funston Dog Walk" are displayed below using Plotly express and Mapbox.
+The above journal routes "Delores Run" and "Ft Funston Dog Walk" are generated below using Plotly express and Mapbox line/scatter chart types.
 <div>{% include route_mapbox_Delores.html %}</div>
 <br>
 One is able to zoom and display info pts along the journal entry route.
