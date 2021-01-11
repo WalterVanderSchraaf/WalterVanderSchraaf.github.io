@@ -28,7 +28,7 @@ Databases: Oracle, MS SQL Server, SQLite, MS Access
 * Familiar with: MySQL, PostgreSQL
 
 DevOps: Familiar with: AWS (EC2, IAM, ElasticBeanstalk, S3, RDS, Amplify, Boto3, Lambda)<br>
-Software: MS Office, MS Visio, Crystal Reports, Photoshop, Illustrator, WordPress<br>
+Software: MS Office, MS Visio, Crystal Reports, Photoshop, Illustrator, WordPress/php, Wix/Velo<br>
 Version Control Systems: VSS, Sharepoint, Git<br>
 Platforms: Windows, Linux, Android, macOS
 
@@ -79,6 +79,13 @@ Platforms: Windows, Linux, Android, macOS
 <br>
 # PROJECTS
 <br>
+<h3 class="resumedetails">
+<span class="resumeleft">Consultant - <a href="https://SocialVoyagers.org" target="_blank">Social Voyagers</a> 
+</span>2020-present</h3>
+
+* Web Design, Web support
+
+
 <h3 class="resumedetails">
 <span class="resumeleft">Consultant - <a href="https://sparkceramicssf.com" target="_blank">Spark Ceramics SF</a>, 
 <a href="https://DeborahGutof.com" target="_blank">Deborah Design</a>
