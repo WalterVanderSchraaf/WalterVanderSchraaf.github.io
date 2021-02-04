@@ -1,5 +1,5 @@
 <nav>
-<li class="fork" style="margin-left: 60px" >
+<li class="fork" style="margin-left: 60px; padding-top: 10px" >
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}" {% if page.url == item.link %}style="color: blue"{% endif %}>
       {{ item.name }}
