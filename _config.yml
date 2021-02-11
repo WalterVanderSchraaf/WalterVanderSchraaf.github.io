@@ -30,12 +30,13 @@ github_username:  WalterVanderSchraaf
 
 # Build settings
 # wvs theme: minima
-# wvs theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 minimal_mistakes_skin: "dark"  # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
