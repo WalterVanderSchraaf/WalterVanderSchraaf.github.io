@@ -26,13 +26,17 @@ Languages:
 * Frameworks: Flask, Django, Plotly Dash, Bootstrap, REST
 * Learning: all things open-source
 
-Databases: Oracle, MS SQL Server, SQLite, MS Access
+Databases: 
+* Oracle, MS SQL Server, SQLite, MS Access
 * Familiar with: MySQL, PostgreSQL, MongoDB
 
-DevOps: Familiar with: AWS (EC2, IAM, ElasticBeanstalk, S3, RDS, Amplify, Boto3, Lambda)<br>
-Software: MS Office, MS Visio, Crystal Reports, Photoshop, Illustrator, CMS:WordPress, Wix<br>
-Version Control Systems: VSS, Sharepoint, Git<br>
-Platforms: Windows, Linux, Android, macOS
+Software: 
+* MS Office, MS Visio, Crystal Reports, Photoshop, Illustrator, CMS:WordPress, Wix
+* Version Control Systems: VSS, Sharepoint, Git
+* DevOps: Familiar with: AWS (EC2, IAM, ElasticBeanstalk, S3, RDS, Amplify, Boto3, Lambda)
+
+Platforms: 
+* Windows, Linux, Android, macOS
 
 ---
 
@@ -112,6 +116,7 @@ Platforms: Windows, Linux, Android, macOS
   * Obtained rentals: 8 moves over 3 years
 * Filled in as Carpenter and Landscaper
 
+<br>
 # EDUCATION
 ### New Jersey Institute of Technology - Newark, New Jersey
 * MS Biomedical Engineering
@@ -119,6 +124,7 @@ Platforms: Windows, Linux, Android, macOS
 ### University of Vermont - Burlington, Vermont
 * BS Electrical Engineering	
 
+<br>
 # INTERESTS
  
 ### Volunteer - [Global Leaders](https://www.globalleadersinc.org/){:target="_blank"}, Inc. 2003 - 2014 
