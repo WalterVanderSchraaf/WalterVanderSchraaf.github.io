@@ -74,7 +74,8 @@ Platforms:
 <p class="indentpar">Developed software using proprietary Client API for document workflow and imaging for major class action suit involving Prudential Insurance. The Customer Complaint System was a 3-tier application created to process policy owner’s complaints. The CCS user interface was written in VB 6.0 with data stored in SQL Server 7.0. System was hosted with transaction management using IIS, ActiveX documents, and MTS Server.</p>
 <p class="indentpar">Technologies used: VB6, SQL Server, MTS, IIS, ASP</p>
 
-<h3 class="resumedetails"><span class="resumeleft">QA Manager - Eastman Kodak Document Imaging Solutions</span>1995-1997</h3>
+
+<h3 class="resumedetails"><span class="resumeleft">QA Manager - Eastman Software</span>1995-1997</h3>
 
 * Managed QA team (~15 members) that tested proprietary Client API software. 
 
@@ -126,8 +127,8 @@ Platforms:
 
 <br>
 # INTERESTS
- 
-### Volunteer - [Global Leaders](https://www.globalleadersinc.org/){:target="_blank"}, Inc. 2003 - 2014 
+<h3 class="resumedetails"><span class="resumeleft">Volunteer - <a href="https://www.globalleadersinc.org/" target="_blank">Global Leaders Inc.</a></span>2003-2014</h3> 
+
 *  Volunteered for Global Leaders since 2003, a non-profit organization that empowers students to become leaders through service locally (California/Colorado) and abroad (San Miguel Escobar/Antiqua, Guatemala). Service projects include reforestation and construction of primary schools.
  
 ### Ultimate Frisbee 
