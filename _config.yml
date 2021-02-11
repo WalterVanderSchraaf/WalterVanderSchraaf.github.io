@@ -30,7 +30,7 @@ github_username:  WalterVanderSchraaf
 
 # Build settings
 # wvs theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
