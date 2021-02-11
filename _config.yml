@@ -36,6 +36,15 @@ plugins:
 
 minimal_mistakes_skin: "dark"  # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cach
+
 defaults:
   # _posts
   - scope:
@@ -52,7 +61,7 @@ search: false
 
 
 author:
-  name: "Your Name"
+  name: "Walter VanderSchraaf"
   avatar: "/assets/images/bio-photo.jpg"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Somewhere"
