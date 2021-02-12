@@ -5,6 +5,6 @@ date:   2021-02-09 12:30:00 -0000
 categories: jekyll update
 ---
 
-For the last year, looking for work in a new field (medical technology) has been frustrating and challenging. It’s hard to network and make connections. Companies are just trying to survive. Those that are staying the course are incredibly busy and some have had to change their business model. I too am still hoping to get in the door; however, now I am turning my attention to learning other skills, technologies, and knowledge domains that I never considered before. I’m involved in a group developing strategies for social justice and racial equity. I’m helping small businesses and non-profits develop their web sites. I can only control my health, so I’m keeping fit and feeding my brain.
+For the last year, looking for work in a new field (medical technology) has been frustrating and challenging. It’s hard to network and make connections. Companies are just trying to survive. Those that are staying the course are incredibly busy and some have had to change their business model. I too am still hoping to get in the door; however, now I am turning my attention to learning other skills, technologies, and knowledge domains that I have never considered before. I’m involved in a group developing strategies for social justice and racial equity. I’m helping small businesses and non-profits develop their web sites. I can only control my health, so I’m keeping fit and feeding my brain.
 
 ---
