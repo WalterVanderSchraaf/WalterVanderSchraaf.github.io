@@ -42,7 +42,7 @@ Platforms:
 
 # SOFTWARE DEVELOPMENT EXPERIENCE
 <br>
-<h3 class="resumedetails"><span class="resumeleft">Senior Software Engineer -<a href="https://www.intellis.io/about-us" target="_blank">Warshawgroup LLC</a>, NYC</span>2001-2017</h3>
+<h2 class="resumedetails"><span class="resumeleft">Sr. Software Engineer - <a href="https://www.intellis.io/about-us" target="_blank">Warshawgroup LLC</a></span>2001-2017</h2>
 
 #### Worked remotely in San Francisco
 
@@ -70,38 +70,38 @@ Platforms:
 
 <p class="indentpar">Technologies used: .NET framework [ASP, ADO], C#, VB .NET, Oracle, ANSI SQL, PL SQL</p>
 <br>
-<h3 class="resumedetails"><span class="resumeleft"> Software Developer - R2K LLC</span>1997-2000</h3>
+<h2 class="resumedetails"><span class="resumeleft"> Software Developer - R2K LLC</span>1997-2000</h2>
 <p class="indentpar">Developed software using proprietary Client API for document workflow and imaging for major class action suit involving Prudential Insurance. The Customer Complaint System was a 3-tier application created to process policy owner’s complaints. The CCS user interface was written in VB 6.0 with data stored in SQL Server 7.0. System was hosted with transaction management using IIS, ActiveX documents, and MTS Server.</p>
 <p class="indentpar">Technologies used: VB6, SQL Server, MTS, IIS, ASP</p>
 
 
-<h3 class="resumedetails"><span class="resumeleft">QA Manager - Eastman Software</span>1995-1997</h3>
+<h2 class="resumedetails"><span class="resumeleft">QA Manager - Eastman Software</span>1995-1997</h2>
 
 * Managed QA team (~15 members) that tested proprietary Client API software. 
 
-<h3 class="resumedetails"><span class="resumeleft">QA Specialist - Sigma Imaging Systems</span>1993-1995</h3>
+<h2 class="resumedetails"><span class="resumeleft">QA Specialist - Sigma Imaging Systems</span>1993-1995</h2>
 
 * Prepared test plans and data, tested proprietary Client APIs
 
 <br>
 # PROJECTS
-<br>
+
+<h2>Consultant</h2>
+coming soon: 
+* RewireFitness.com, FlatBallProductions.com
 <h3 class="resumedetails">
-<span class="resumeleft">Consultant - <a href="https://SocialVoyagers.org" target="_blank">Social Voyagers</a> 
-</span>2020-present</h3>
+<span class="resumeleft"><a href="https://SocialVoyagers.org" target="_blank">Social Voyagers</a></span>2020-present</h3>
 
 * Web Design, Web support
-* coming soon: RewireFitness.com, FlatBallProductions.com
-
 
 <h3 class="resumedetails">
-<span class="resumeleft">Consultant - <a href="https://sparkceramicssf.com" target="_blank">Spark Ceramics SF</a>, 
-<a href="https://DeborahGutof.com" target="_blank">Deborah Design</a>
-</span>2016-present</h3>
+<span class="resumeleft"><a href="https://sparkceramicssf.com" target="_blank">Spark Ceramics SF</a></span>2016-present
+<br>
+<span class="resumeleft"><a href="https://DeborahGutof.com" target="_blank">Deborah Design</a></span>2016-present</h3>
 
-* Studio manager, Web support, Workshop assistant
+* Studio manager, Workshop assistant, Web support
 
-<h3 class="resumedetails"><span class="resumeleft">Construction project manager </span>2016-2019</h3>
+<h2 class="resumedetails"><span class="resumeleft">Construction project manager </span>2016-2019</h2>
 <p class="indentpar">Rebuilt house due to fires back in Jan 2016</p>
 
 * Contractor Manager
