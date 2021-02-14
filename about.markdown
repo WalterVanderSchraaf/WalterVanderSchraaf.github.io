@@ -8,12 +8,12 @@ header:
 
 I’ve been a tester, a manager and a developer.  I am effective because I understand the different expectations for those involved in a project. I am a team player, a people-person, self-driven and can work independently.
 
-* Over 20 years software and application development
-* Willing to learn by immersion and do what needs to be done
+* Over 20 years software and application development experience
+* Skilled at learning by immersion and doing what needs to be done
 * Play to Win approach and can-do attitude
 * Passion for problem solving with a focus on root-cause analysis
 * BS - Electrical Engineering, MS – Biomedical Engineering  
-* World-championship athlete with a career spanning over 30 years
+* World-champion athlete with a career spanning over 30 years
   * [2019 Ultimate Hall of Fame](https://www.usaultimate.org/about/history/hall_of_fame/walter_vanderschraaf_class_of_2019.aspx){:target="_blank"}
 
 ---
@@ -62,7 +62,7 @@ Platforms:
    * application monitoring and issue resolution
  * Managed client test and user environments
    * application installations
-   * data base updates, backups, user access
+   * database updates, backups, user access
  * Ran inspection imports and reconciliation
  * Tested code migration to allow DOE/SCA to take ownership of software system
    * VB6 to C# using NUnit testing
@@ -71,7 +71,7 @@ Platforms:
 <p class="indentpar">Technologies used: .NET framework [ASP, ADO], C#, VB .NET, Oracle, ANSI SQL, PL SQL</p>
 <br>
 <h2 class="resumedetails"><span class="resumeleft"> Software Developer - R2K LLC</span>1997-2000</h2>
-<p class="indentpar">Developed software using proprietary Client API for document workflow and imaging for major class action suit involving Prudential Insurance. The Customer Complaint System was a 3-tier application created to process policy owner’s complaints. The CCS user interface was written in VB 6.0 with data stored in SQL Server 7.0. System was hosted with transaction management using IIS, ActiveX documents, and MTS Server.</p>
+<p class="indentpar">Developed software using proprietary Client API for document workflow and imaging for major class action lawsuit involving Prudential Insurance. The Customer Complaint System was a 3-tier application created to process policy owner’s complaints. The CCS user interface was written in VB 6.0 with data stored in SQL Server 7.0. System was hosted with transaction management using IIS, ActiveX documents, and MTS Server.</p>
 <p class="indentpar">Technologies used: VB6, SQL Server, MTS, IIS, ASP</p>
 
 
